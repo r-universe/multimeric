@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "TidyMultiqc"]
+	path = TidyMultiqc
+	url = https://github.com/multimeric/tidymultiqc
+	shallow = true
+	registered = true
