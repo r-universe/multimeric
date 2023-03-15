@@ -1,5 +1,9 @@
 [
   {
+    "package": "HistDat",
+    "oncran": true
+  },
+  {
     "package": "TidyMultiqc",
     "oncran": true
   }
